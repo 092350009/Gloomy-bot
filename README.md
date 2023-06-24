@@ -1,0 +1,2 @@
+# Gloomy-bot
+my bot
